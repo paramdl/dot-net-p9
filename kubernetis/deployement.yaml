@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: example-app
-        image: bharathsharath/dot-net
+        image: prashanthdlp/dot-net
         imagepullpolicy: Always
         ports:
         - containerPort: 5000
